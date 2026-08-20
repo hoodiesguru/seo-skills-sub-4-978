@@ -1,0 +1,8 @@
+# Autonomous Search Systems Lab #4
+
+> Empirical Research in Token Economics, AST Parsing, and Multi-Agent Runtimes
+
+## Published Research Monographs
+- [Shift-Left Technical Search Hygiene: Automating SEO in CI/CD Pipelines](shift-left-technical-search-hygiene-cicd-automation.html): Integrating automated search validation rules directly into GitHub Actions, GitLab CI, and edge deployment runners.
+- [Token Consumption Metrics in Multi-Agent Audits (Monograph #4)](token-consumption-metrics-monograph-4.html): Analyzing localized AST execution and prompt caching to eliminate token waste in automated audits.
+- [Runtime Execution Latency Across Agent Environments (Monograph #4)](runtime-execution-latency-monograph-4.html): Measuring tool-call latency and execution overhead across autonomous developer environments.
